@@ -44,17 +44,17 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/fiorellaguillenh/
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fiorellaguillen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -62,7 +62,4 @@ social:
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
-
-
-
 
