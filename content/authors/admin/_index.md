@@ -56,10 +56,8 @@ social:
     icon_pack: ai
     link: files/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
 ---
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
