@@ -28,12 +28,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Urban design
+      tag: UD
+    - name: Urban planning
+      tag: UP
+    - name: Urban data science
+      tag: DS
+    - name: Transport
+      tag: T
+
 
 design:
   columns: '1'
