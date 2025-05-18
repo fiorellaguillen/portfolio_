@@ -15,7 +15,7 @@ role: 'Urban Spatial Scientist'
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postgraduate student in Urban Spatial Science at UCL with a background in architecture and urbanism. I have a strong interest in sustainable urban development and spatial analysis, and I’m passionate about leveraging data-driven solutions to tackle urban challenges.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Artificial Intelligence
@@ -44,20 +44,25 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/fiorellaguillenh/
+    link: https://instagram.com/geocushen
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
-    link: https://github.com/fiorellaguillen
+    link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-   - icon: cv
-     icon_pack: ai
-     link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
-
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+#email: ""
 ---
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+
+
+
+
