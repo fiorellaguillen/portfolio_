@@ -1,9 +1,10 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: about
 
-# This file represents a page section.
-headless: true
+# Put Your Section Options Here (title, background etc.)
+title: Biography
+weight: 10 # Position of section on page
 
 # Order that this section will appear in.
 weight: 10
