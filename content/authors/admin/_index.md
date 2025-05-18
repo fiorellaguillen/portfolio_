@@ -57,6 +57,5 @@ social:
     link: files/resume.pdf
 ---
 
-
 {{< icon name="download" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
